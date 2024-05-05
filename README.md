@@ -23,10 +23,10 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: matheusalcantara.pereira01@gmail.com">
-      <img width="30" src="gmail.svg">
+      <img width="30" src="gmail.png">
     </a>
     <a href = "https://www.linkedin.com/in/matheus-alcantara-b93812234/">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="linkedin.png">
     </a>
     <a href = "https://gitlab.com/matheus-alcan">
       <img width="35" src="gitlab.svg">

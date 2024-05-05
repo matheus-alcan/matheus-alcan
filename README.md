@@ -9,8 +9,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWQzMDJ6YWU5cjVpOWd5MG5jeHNkeWQ0aXRqcWljdm5iMjZqd2RoOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif
-">
+    <img align="left" height="250" alt="coding-time" src="gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">

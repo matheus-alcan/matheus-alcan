@@ -9,7 +9,8 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <img align="left" height="250" alt="coding-time" src="![layout do git](https://github.com/matheus-alcan/matheus-alcan/assets/167790351/8a6b3b4f-9fc1-40a8-80cf-08ac5bbbd593)
+">
     <h1 align="center">Melhores Tecnologias <3</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">

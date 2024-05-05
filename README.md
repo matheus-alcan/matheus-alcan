@@ -9,7 +9,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="gif">
+    <img align="left" height="250" alt="coding-time" src="git.svg">
     <h1 align="center">Melhores Tecnologias <3</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -22,16 +22,16 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "[mailto: work.luigi.fonseca@gmail.com](https://mail.google.com/mail/u/0/#inbox)">
+    <a href = "mailto: matheusalcantara.pereira01@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "[https://www.linkedin.com/in/matheus-alcantara-b93812234/](https://www.linkedin.com/in/matheus-alcantara-b93812234/)">
+    <a href = "https://www.linkedin.com/in/matheus-alcantara-b93812234/">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "[https://gitlab.com/matheus-alcan](https://gitlab.com/matheus-alcan)">
+    <a href = "https://gitlab.com/matheus-alcan">
       <img width="35" src="gitlab.svg">
     </a>
-    <a href = "[https://www.instagram.com/matheus.alc2/](https://www.instagram.com/matheus.alc2/)">
+    <a href = "https://www.instagram.com/matheus.alc2/">
       <img width="25" src="instagram.svg">
     </a>
 </div>

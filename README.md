@@ -29,7 +29,7 @@
       <img width="25" src="linkedin.png">
     </a>
     <a href = "https://gitlab.com/matheus-alcan">
-      <img width="25" src="gitlab.png">
+      <img width="25" src="gitlab-Photoroom.png">
     </a>
     <a href = "https://www.instagram.com/matheus.alc2/">
       <img width="25" src="instagram.png">

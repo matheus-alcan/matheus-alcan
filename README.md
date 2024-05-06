@@ -35,7 +35,7 @@
       <img width="25" src="instagram.png.jpeg">
     </a>
     <a href = "https://lucid.app/documents#/documents?folder_id=home">
-      <img width="25" src="">
+      <img width="25" src="luci.png">
     </a>
 </div>
   

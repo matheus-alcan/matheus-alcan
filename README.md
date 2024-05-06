@@ -32,7 +32,7 @@
       <img width="25" src="gitlab-Photoroom.png">
     </a>
     <a href = "https://www.instagram.com/matheus.alc2/">
-      <img width="25" src="instagram.png">
+      <img width="25" src="instagram.png.jpeg">
     </a>
 </div>
   

@@ -32,7 +32,7 @@
       <img width="25" src="gitlab-Photoroom.png">
     </a>
     <a href = "https://www.instagram.com/matheus.alc2/">
-      <img width="25" src="instagram.png.jpeg">
+      <img width="25" src="instagram2.png">
     </a>
     <a href = "https://lucid.app/documents#/documents?folder_id=home">
       <img width="25" src="luci.png">

@@ -26,7 +26,7 @@
       <img width="25" src="gmail.png">
     </a>
     <a href = "https://www.linkedin.com/in/matheus-alcantara-b93812234/">
-      <img width="25" src="linkedin.png">
+      <img width="25" src="linkedin.webp">
     </a>
     <a href = "https://gitlab.com/matheus-alcan">
       <img width="25" src="gitlab-Photoroom.png">

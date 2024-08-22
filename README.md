@@ -41,7 +41,6 @@
 ![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 
-Generates a snake game from a github user contributions graph
 
 <picture>
   <source
@@ -70,7 +69,4 @@ Available as github action. It can automatically generate a new image each day. 
   <img height="300px" src="https://user-images.githubusercontent.com/1659820/121798244-7c86d700-cc25-11eb-8c1c-b8e65556ac0d.gif" ></img>
 </a>
 
-[platane.github.io/snk](https://platane.github.io/snk)
 
-
-![Snake animation](https://github.com/matheus-alcan)

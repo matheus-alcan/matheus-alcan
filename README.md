@@ -34,6 +34,6 @@
     <img width="25" src="luci.png">
   </a>
 </div>
-![Snake animation](https://github.com/matheus-alcan/matheus-alcan/blob/output/github-contribution-grid-snake.svg)
+
 
 

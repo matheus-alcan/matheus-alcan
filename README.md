@@ -20,7 +20,7 @@
 
 <br>
 <div align="center"> 
-    <div style="display: inline_block"><br>
+    <div style="display: inline_block">
     <img align="left" alt="" height="250" alt="coding-time" src="git.svg.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
     <img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

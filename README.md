@@ -21,8 +21,8 @@
 <br>
 <div align="center"> 
     <div style="display: inline_block; margin-top: -20px;">
-<img align="left" alt="" height="200" alt="coding-time" src="git.svg.gif">
-    <h2 align="center">Melhores Tecnologias <3</h2>
+<img align="left" alt="" height="150" alt="coding-time" src="git.svg.gif">
+    <h3 align="center">Melhores Tecnologias <3</h3>
     <img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -31,7 +31,7 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="30" width="40" alt="cpp-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
 
-  <h2 align="center">Redes Sociais</h2>
+  <h3 align="center">Redes Sociais</h3>
   <a href="mailto:matheusalcantara.pereira01@gmail.com">
     <img width="30" src="gmail.png">
   </a>

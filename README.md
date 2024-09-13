@@ -1,9 +1,17 @@
 ## Faaaala dev, Matheus Aqui!
-<div align="justify">
+<div text-align="justify">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=#228B22&center=true&vCenter=true&random=false&width=524&lines=Faaaaala+dev,+Matheus+Aqui!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=228B22&center=true&vCenter=true&random=false&width=524&lines=Faaaaala+dev,+Matheus+Aqui!" alt="Typing SVG">
   </a>
 </div>
+
+#
+
+<p align="center">  Me chamo Matheus, sou estudante de Ciência da Computação, escolhi essa profissão pela sutil beleza que há na criação de um software. Dentre os diversos encantos na área da programação está a singularidade no resultado final, cada código é único e pode vir a gerar um programa que também será único, outro
+notável encanto da área de desenvolvimento
+de software é a proximidade entre o desenvolvedor com o cliente, afim de lhe proporcionar um algoritmo que melhor atenda cada uma de suas necessidades.
+  
+#
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-alcan&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>

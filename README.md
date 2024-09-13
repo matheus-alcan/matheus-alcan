@@ -21,7 +21,7 @@
 <br>
 <div align="center"> 
     <div style="display: inline_block; margin-top: -20px;">
-<img align="left" alt="" height="150" alt="coding-time" src="novogif.gif">
+<img align="left" alt="" height="250" alt="coding-time" src="novogif.gif">
     <h3 align="center">Melhores Tecnologias <3</h3>
     <img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">

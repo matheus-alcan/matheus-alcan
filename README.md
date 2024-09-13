@@ -6,9 +6,7 @@
 
 #
 
-<p align="center">  Me chamo Matheus Alcântara Pereira, sou estudante de Ciência da Computação, escolhi essa profissão pela sutil beleza que há na criação de um software. Dentre os diversos encantos na área da programação está a singularidade no resultado final, cada código é único e pode vir a gerar um programa que também será único, outro
-notável encanto da área de desenvolvimento
-de software é a proximidade entre o desenvolvedor com o cliente, afim de lhe proporcionar um algoritmo que melhor atenda cada uma de suas necessidades.
+<p align="center">  Meu nome é Matheus Alcântara Pereira, sou estudante de Ciência da Computação e escolhi essa área pela beleza sutil que existe na criação de software. O que mais me encanta na programação é a singularidade de cada projeto: cada código é único, assim como o programa resultante. Além disso, a proximidade entre o desenvolvedor e o cliente é algo que considero essencial, pois possibilita a criação de soluções sob medida que atendam de forma às necessidades de cada pessoa. Isso é o que torna o desenvolvimento de software uma experiência tão gratificante e desafiadora.
   
 #
 

@@ -17,6 +17,9 @@
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-alcan&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 <br>
+
+#
+
 <div align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="git.svg.gif">
@@ -29,6 +32,9 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="30" width="40" alt="cpp-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
   </div>
+
+#
+      
   <h1 align="center">Redes Sociais</h1>
   <a href="mailto:matheusalcantara.pereira01@gmail.com">
     <img width="30" src="gmail.png">

@@ -13,7 +13,7 @@
 
 <div>
   <img height="183em" src="https://github-readme-stats.vercel.app/api?username=matheus-alcan&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="183em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-alcan&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+  <img align="right" height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-alcan&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 
 #

@@ -12,8 +12,8 @@
 # 
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-alcan&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-alcan&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=matheus-alcan&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img align="right" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-alcan&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 
 #
@@ -21,7 +21,7 @@
 <br>
 <div align="center"> 
     <div style="display: inline_block; margin-top: -20px;">
-<img align="left" alt="" height="190" alt="coding-time" src="novogif.gif">
+<img align="left" alt="" height="180" alt="coding-time" src="novogif.gif">
     <h3 align="center">Melhores Tecnologias <3</h3>
     <img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">

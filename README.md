@@ -38,7 +38,7 @@
   <a href="https://www.linkedin.com/in/matheus-alcantara-b93812234/">
     <img width="25" src="linkedin.webp">
   </a>
-  <a href=" http://lattes.cnpq.br/7122671646429427">
+  <a href="http://lattes.cnpq.br/7122671646429427">
     <img width="25" src="gitlab-Photoroom.png">
   </a>
   <a href="https://www.instagram.com/matheus.alc2/">

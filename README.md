@@ -45,7 +45,7 @@
     <img width="25" src="instagram2.png">
   </a>
   <a href="https://sicoob.empregare.com/pt-br/candidato/curriculo">
-    <img width="25" src="Sicoob.jpg">
+    <img width="25" src="Sicoob.jpeg">
   </a>
   </div>
 </div>

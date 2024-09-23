@@ -44,7 +44,7 @@
   <a href="https://www.instagram.com/matheus.alc2/">
     <img width="25" src="instagram2.png">
   </a>
-  <a href="https://lucid.app/documents#/documents?folder_id=home">
+  <a href="https://sicoob.empregare.com/pt-br/candidato/curriculo">
     <img width="25" src="luci.png">
   </a>
   </div>

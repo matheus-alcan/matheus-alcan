@@ -34,7 +34,7 @@
     <img align="center" height="30" width="40" alt="cpp-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
 
 
-  <h3 align="center">Plataformas</h3>
+  <h3 align="center">Redes</h3>
   <a href="mailto:matheusalcantara.pereira01@gmail.com">
     <img width="30" src="gmail.png">
   </a>

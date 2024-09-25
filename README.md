@@ -45,7 +45,7 @@
     <img width="25" src="CNPq.png">
   </a>
   <a href="https://www.infojobs.com.br/candidate/cv/detail2.aspx">
-    <img width="25" src="infojobs.png">
+    <img width="25" src="infojobs.jtif">
   </a>
   <a href="https://web.ciee.org.br/estudante/controle-acesso">
     <img height="25" width="30" src="CIEE.jpg">

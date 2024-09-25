@@ -44,7 +44,7 @@
   <a href="http://lattes.cnpq.br/7122671646429427">
     <img width="25" src="CNPq.png">
   </a>
-  <a href="https://www.infojobs.com.br/Candidate/CV/">
+  <a href="https://www.infojobs.com.br/candidate/cv/detail2.aspx">
     <img width="25" src=".png">
   </a>
   <a href="https://sicoob.empregare.com/pt-br/candidato/curriculo">

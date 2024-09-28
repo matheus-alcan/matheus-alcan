@@ -47,7 +47,7 @@
     <img width="25" src="infojobs.png">
   </a>
   <a href="https://web.ciee.org.br/estudante/controle-acesso">
-    <img height="25" width="30" src="CIEE.jpg">
+    <img height="25" width="30" src="CIEE1.png">
   </a>
   <a href="https://sicoob.empregare.com/pt-br/candidato/curriculo">
     <img width="25" src="Sicoob.jpeg">

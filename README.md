@@ -22,7 +22,7 @@
 <div align="center"> 
     <div style="display: inline_block; margin-top: -20px;">
 <img align="left" alt="" height="180" alt="coding-time" src="novogif.gif">
-    <h3 align="center">Linguagens e SOs</h3>
+    <h3 align="center">Ferramentas</h3>
     <img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

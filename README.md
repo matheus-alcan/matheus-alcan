@@ -50,7 +50,7 @@
     <img height="25" width="30" src="CIEE1.png">
   </a>
   <a href="https://sicoob.empregare.com/pt-br/candidato/curriculo">
-    <img width="25" src="Sicoob1.png">
+    <img width="25" src="Sicoob.png">
   </a>
   </div>
 </div>

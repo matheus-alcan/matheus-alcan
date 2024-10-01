@@ -45,7 +45,7 @@
     <img width="25" src="CNPq.png">
   </a>
   <a href="https://drive.google.com/drive/my-drive">
-    <img width="25" src="">
+    <img width="25" src="google1.png">
   </a>
   <a href="https://www.infojobs.com.br/candidate/cv/detail2.aspx">
     <img width="25" src="infojobs.png">

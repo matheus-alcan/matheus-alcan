@@ -27,7 +27,7 @@
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="40" width="40" alt="powerbi-icon" src="powerbi1.png">
-    <img align="center" height="40" width="40" alt="bandeira-icon" src="bandeira.webp">
+    <img align="center" height="30" width="40" alt="bandeira-icon" src="bandeira.webp">
     <img align="center" height="40" width="40" alt="pacote-icon" src="pacote.webp">
     <img align="center" height="40" width="40" alt="windows-icon" src="Windows 11.png">
     <img align="center" height="40" width="40" alt="linux-icon" src="Linux.png">

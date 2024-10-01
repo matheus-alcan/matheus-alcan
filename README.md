@@ -44,6 +44,9 @@
   <a href="http://lattes.cnpq.br/7122671646429427">
     <img width="25" src="CNPq.png">
   </a>
+  <a href="https://drive.google.com/drive/my-drive">
+    <img width="25" src="">
+  </a>
   <a href="https://www.infojobs.com.br/candidate/cv/detail2.aspx">
     <img width="25" src="infojobs.png">
   </a>

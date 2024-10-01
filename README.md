@@ -34,7 +34,7 @@
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 
 
-  <h3 align="center" lang="en">Links para Networking</h3>
+  <h3 align="center" lang="en">Networking</h3>
   <a href="mailto:matheusalcantara.pereira01@gmail.com">
     <img width="30" src="gmail.png">
   </a>

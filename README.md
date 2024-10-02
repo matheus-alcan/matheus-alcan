@@ -22,7 +22,7 @@
 <div align="center"> 
     <div style="display: inline_block; margin-top: -20px;">
 <img align="left" alt="" height="180" alt="coding-time" src="novogif.gif">
-    <h3 align="center" lang="en">Skills</h3>
+    <h3 align="center" lang="en-US">Skills</h3>
     <img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -34,7 +34,7 @@
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 
 
-  <h3 align="center" lang="en">Networking</h3>
+  <h3 align="center" lang="en-US">Networking</h3>
   <a href="mailto:matheusalcantara.pereira01@gmail.com">
     <img width="30" src="gmail.png">
   </a>

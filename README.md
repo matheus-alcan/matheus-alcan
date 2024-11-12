@@ -29,7 +29,7 @@
     <img align="center" height="40" width="40" alt="powerbi-icon" src="powerbi1.png">
     <img align="center" height="30" width="40" alt="bandeira-icon" src="bandeira.webp">
     <img align="center" height="40" width="40" alt="pacote-icon" src="pacote.webp">
-    <img align="center" height="40" width="40" alt="python-icon" src="Python.png">
+    <img align="center" height="40" width="40" alt="python-icon" src="python.png">
     <img align="center" height="40" width="40" alt="linux-icon" src="Linux.png">
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 

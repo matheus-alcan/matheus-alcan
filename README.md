@@ -6,7 +6,7 @@
 #
 
 <div>
-    <p align="center"> Meu nome é Matheus Alcântara Pereira, sou estudante de Ciência da Computação e escolhi essa área pela beleza sutil que existe na criação de software . O que mais me encanta na programação é a singularidade de cada projeto: cada código é único, assim como o programa resultante. Além disso, a proximidade entre o desenvolvedor e o cliente é algo que considero essencial, pois possibilita a criação de soluções sob medida que atendam às necessidades formais de cada pessoa. Isso é o que torna o desenvolvimento de um software uma experiência tão gratificante e desafiadora. </p>
+    <p align="center"> Meu nome é Matheus Alcântara Pereira, sou estudante de Ciência da Computação e escolhi essa área pela beleza sutil que existe na criação de software . O que mais me encanta na programação é a singularidade de cada projeto: cada código é único, assim como o programa resultante. </p>
 </div>
 
 # 

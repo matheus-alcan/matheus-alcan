@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">
   <a href="https://git.io/typing-svg"> 
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7CFC00&center=true&vCenter=true&random=false&width=400&lines=Faaaaala+dev,+Matheus+Aqui!!!" alt="Typing SVG"> 
   </a> 
@@ -12,9 +12,10 @@
 
 # 
 
-<div style= "display: flex; gap: 2px;">
+<div style="display: flex; flex-direction: column; gap: 8px; align-items: center;">
   <img height="182em" src="https://github-readme-stats.vercel.app/api?username=matheus-alcan&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-alcan&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+  <img style="width: 60%;"
+    align="right" height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-alcan&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 
 #

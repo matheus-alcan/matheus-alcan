@@ -12,10 +12,10 @@
 
 # 
 
-<div style= "display: flex; flex-direction: column; gap: 10 px; align-items: center;">
-  <img style="width: 40%;" align="left" height="182em" 
+<div style= "display: flex; gap: 2px;">
+  <img align="right" height="182em" 
     src="https://github-readme-stats.vercel.app/api?username=matheus-alcan&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img style="width: 60%;" align="right" height="182em" 
+  <img align="right" height="182em" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-alcan&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 

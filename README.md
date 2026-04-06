@@ -6,9 +6,13 @@
 
 #
 
-<div>
-    <p align="center"> Meu nome é Matheus, sou um programador back-end e escolhi essa área pela beleza sutil que existe na criação de software . O que mais me encanta na programação é a singularidade de cada projeto: cada código é único, assim como o programa resultante. </p>
+<div style= "display: flex; gap: 2px;">
+  <img height="182em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-alcan&layout=compact&langs_count=8&theme=chartreuse-dark"
+  <img align="right" height="182em"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-alcan&theme=chartreuse-dark"
 </div>
+
 
 # 
 

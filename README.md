@@ -53,12 +53,6 @@
 #
 
 <br>
-    <div style="display: inline_block; margin-top: -20px; align: center">
-<img align="left" alt="" height="180" alt="coding-time" src="novogif.gif">
-</div>
-
-
-<br>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheus-alcan/matheus-alcan/output/github-contribution-grid-snake-dark.svg">

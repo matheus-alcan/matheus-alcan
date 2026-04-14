@@ -53,13 +53,11 @@
 #
 
 <br>
-<div align="center"> 
-    <div style="display: inline_block; margin-top: -20px;">
+    <div style="display: inline_block; margin-top: -20px; align: center">
 <img align="left" alt="" height="180" alt="coding-time" src="novogif.gif">
 </div>
-</div>
 
-#
+<br>#
 
 <br>
 

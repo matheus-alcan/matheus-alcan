@@ -13,8 +13,10 @@
 # 
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=matheus-alcan&show_icons=true&theme=chartreuse-dark" />
+  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=matheus-alcan&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=matheus-alcan&layout=compact&langs_count=16&theme=chartreuse-dark" />
 </div>
+
 #
 
 <br>

@@ -57,8 +57,6 @@
 <img align="left" alt="" height="180" alt="coding-time" src="novogif.gif">
 </div>
 
-<br>
-#
 
 <br>
 
